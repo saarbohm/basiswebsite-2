@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (Saar Bohm)
+  Saar bohm
 
   #### Je startniveau:
   hier je startniveau (Blauw)
